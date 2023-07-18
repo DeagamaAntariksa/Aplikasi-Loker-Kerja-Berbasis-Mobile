@@ -1,7 +1,3 @@
-![image](https://github.com/DeagamaAntariksa/Aplikasi-Lowongan-Kerja-Berbasis-Website/assets/81089892/ee3ead9f-d408-417e-aeac-70415308da25)# Aplikasi-Lowongan-Kerja-Berbasis-Website
-![image](https://github.com/DeagamaAntariksa/Aplikasi-Lowongan-Kerja-Berbasis-Website/assets/81089892/3b22b0c1-337b-49f8-83c4-a499ce07e333)
-
-
 HALAMAN LOGIN
 ![image](https://github.com/DeagamaAntariksa/Aplikasi-Lowongan-Kerja-Berbasis-Website/assets/81089892/d9b6d9b3-f2b0-4319-9f56-18e4fdbbb2d6)
 
