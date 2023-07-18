@@ -1,1 +1,1 @@
-# Aplikasi-Loker-Kerja-Berbasis-Mobile
+# Aplikasi-Lowongan-Kerja-Berbasis-Mobile
