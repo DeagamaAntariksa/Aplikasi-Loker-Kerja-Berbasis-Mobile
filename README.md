@@ -1,1 +1,1 @@
-# Aplikasi-Lowongan-Kerja-Berbasis-Mobile
+# Aplikasi-Lowongan-Kerja-Berbasis-Website
